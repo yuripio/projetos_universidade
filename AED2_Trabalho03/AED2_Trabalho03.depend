@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1685327916 source:c:\users\pichau\documents\aed2_trabalho03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"Projeto.h"
+
+1685327278 source:c:\users\pichau\documents\aed2_trabalho03\projeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Projeto.h"
+
+1685327916 c:\users\pichau\documents\aed2_trabalho03\projeto.h
+
